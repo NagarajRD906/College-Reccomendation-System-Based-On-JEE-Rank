@@ -1,1 +1,1 @@
-# College-Reccomendation-System-Based-On-JEE-Rank
+# College-Recommendation-System-Based-On-JEE-Rank
